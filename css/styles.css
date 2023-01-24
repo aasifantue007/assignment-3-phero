@@ -35,3 +35,6 @@
 .footer-vcss{
     width: 100%;
 }
+.list-style-vcss{
+    list-style: none;
+}
