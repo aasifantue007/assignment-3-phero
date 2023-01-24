@@ -6,6 +6,7 @@
     height: 70vh;
     background-image:url(../images/banner.png);
     background-repeat: no-repeat;
+    max-width: auto;
 }
 
 .accordion-item, .accordion-header{
