@@ -1,4 +1,6 @@
-
+*{
+    font-family: 'EB Garamond', serif;  
+}
 .hero-image{
     margin-top: 30px;
     margin-left: 50px;
@@ -6,7 +8,6 @@
     height: 70vh;
     background-image:url(../images/banner.png);
     background-repeat: no-repeat;
-    max-width: auto;
 }
 
 .accordion-item, .accordion-header{
@@ -29,4 +30,8 @@
 }
 .accordion-body{
     background: #F7F3EE;
+}
+
+.footer-vcss{
+    width: 100%;
 }
