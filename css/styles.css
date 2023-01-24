@@ -1,6 +1,11 @@
+/*=====Main Font=====
+===================== */
 *{
     font-family: 'EB Garamond', serif;  
 }
+
+/*=====Main Banner=====
+=======================*/
 .hero-image{
     margin-top: 30px;
     margin-left: 50px;
@@ -9,6 +14,9 @@
     background-image:url(../images/banner.png);
     background-repeat: no-repeat;
 }
+
+/*=====Accordion=====
+=====================*/
 
 .accordion-item, .accordion-header{
 
@@ -31,7 +39,8 @@
 .accordion-body{
     background: #F7F3EE;
 }
-
+/*=====Footer=====
+==================*/
 .footer-vcss{
     width: 100%;
 }
